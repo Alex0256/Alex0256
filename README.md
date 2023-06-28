@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Alex0256
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in Python, Java, AI, and Cybersecurity
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, already learned Python
 - 📫 How to reach me: milkyway11224@gmail.com
 
 <!---
